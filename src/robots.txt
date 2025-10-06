@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Block admin routes from search engines
+Disallow: /admin
+Disallow: /#admin
+
+# Allow all other content
+Allow: /
+
+# Sitemap location
+Sitemap: https://swaragamatrainingcenter.vercel.app/sitemap.xml

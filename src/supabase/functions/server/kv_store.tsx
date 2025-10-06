@@ -1,0 +1,1 @@
+// This file has been removed - application is now pure frontend without Supabase
